@@ -32,9 +32,7 @@ Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** and
 - **Technology Used:** Java, MySQL  
 - **Role:** Managed CRUD operations for the Admin Entity, tested API calls using Postman  
 
-### Book Rental Website  
-- **Objective:** A platform to rent books within a 5km radius  
-- **Current Status:** In development  
+ 
 
 ---
 
