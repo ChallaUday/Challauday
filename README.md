@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm UDAY KIRAN CHALLA
 
-Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** and an enthusiastic learner exploring new technologies and tools. Currently, I'm focused on enhancing my skills in **JavaScript**, **Full Stack Development**, and **IoT Cloud Processing and Analytics**.
+Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** and an enthusiastic learner exploring new technologies and tools. Currently, I'm focused on enhancing my skills in **JavaScript**, **Full Stack Development**
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** and
 - 🎯 Aspiring Software Development Engineer with a keen interest in Full Stack Development  
 - 🎓 Completed Java Full Stack training with TNS India Foundation, contributed to a Placement Management System project  
 - 📖 Currently learning JavaScript, preparing for interviews, and diving deeper into advanced programming concepts  
-- 🎨 Working on side projects like a Book Rental Website  
+- 🎨 Working on side projects like a EventEase react application  
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** and
 - **Backend Technologies:** Java (Spring Boot)  
 - **Database:** MySQL  
 - **Tools:** Postman, Git, GitHub  
-- **IDE:** IntelliJ IDEA, Android Studio  
+- **IDE:** VScode  
 
 ---
 
